@@ -16,8 +16,7 @@
   --grey-900: hsl(0, 0%, 8%);
 
   /* Typography */
-  /* pre set typography  inter bold*/
-  /* pre set I  */
+  /* pre set I inter bold */
   --h1-size:1.5rem;
   --h1-weight:700;
   --h1-line-height:1.5;
@@ -137,7 +136,7 @@ h2{
   align-items: center;
 }
 
-/* reusable link box */
+/* reusable link button */
 .link-button{
   max-width: 279px;
   width: 100%;
@@ -148,6 +147,8 @@ h2{
   border: none;
   background-color: var(--grey-700);
   color: var(--white);
+  text-decoration: none;
+  text-align: center;
 }
 
 .link-button:hover{
@@ -156,8 +157,11 @@ h2{
   cursor: pointer;
 }
 
-.button-text{
+.button-title{
+  font-size: var(--h2-size);
   font-weight: var(--h2-bold-weight);
+  line-height: var(--h2-line-height);
+  letter-spacing: var(--h2-letter-spacing);
 }
 
 
