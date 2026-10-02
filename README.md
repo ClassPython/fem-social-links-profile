@@ -26,8 +26,9 @@ This challenge required knowledge of css, semantic HTML, and building a responsi
 
 ### What I learned
 
- - Created accessible external-link buttons using anchor (<a>) and <span> tags, ensuring full compatibility with screen readers.
+ - Created accessible external-link buttons using anchor and span tags, ensuring full compatibility with screen readers.
+
 
 ### Next Steps
 
-- Build more complex responsive layouts.
+- Completed the four Frontend Mentor projects under the newbie Learning Path; now progressing to the projects under the Building Responsive Websites Learning Path.
