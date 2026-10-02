@@ -48,10 +48,11 @@
 
 
 body {
+  font-family: 'Inter', sans-serif;
   display: flex;
   flex-direction: column;
   font-size: var(--font-size-body);
-  height: 100vh;
+  min-height: 100svh;
   width: 100%;
   padding: 0 var(--spacing-150);
   row-gap: var(--spacing-50);
